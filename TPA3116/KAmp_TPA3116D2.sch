@@ -64,7 +64,7 @@ U 1 1 5A5ECAD5
 P 1100 2450
 F 0 "J2" H 1100 2600 50  0000 C CNN
 F 1 "R_IN" V 1200 2450 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1100 2450 50  0001 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 1100 2450 50  0001 C CNN
 F 3 "~" H 1100 2450 50  0001 C CNN
 	1    1100 2450
 	-1   0    0    1   
@@ -1123,7 +1123,7 @@ U 1 1 5A631374
 P 1100 4650
 F 0 "J3" H 1100 4800 50  0000 C CNN
 F 1 "L_IN" V 1200 4650 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1100 4650 50  0001 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 1100 4650 50  0001 C CNN
 F 3 "~" H 1100 4650 50  0001 C CNN
 	1    1100 4650
 	-1   0    0    1   
@@ -1288,7 +1288,7 @@ U 1 1 5A63ED0D
 P 1100 7000
 F 0 "J4" H 1100 7150 50  0000 C CNN
 F 1 "Sync" V 1200 7000 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1100 7000 50  0001 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 1100 7000 50  0001 C CNN
 F 3 "~" H 1100 7000 50  0001 C CNN
 	1    1100 7000
 	-1   0    0    1   
@@ -1299,7 +1299,7 @@ U 1 1 5A63F713
 P 1100 7350
 F 0 "J5" H 1100 7500 50  0000 C CNN
 F 1 "Sync" V 1200 7350 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1100 7350 50  0001 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 1100 7350 50  0001 C CNN
 F 3 "~" H 1100 7350 50  0001 C CNN
 	1    1100 7350
 	-1   0    0    1   
@@ -1333,7 +1333,7 @@ U 1 1 5A643478
 P 1100 1200
 F 0 "J1" H 1100 1450 50  0000 C CNN
 F 1 "CTRL" V 1200 1200 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 1100 1200 50  0001 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical" H 1100 1200 50  0001 C CNN
 F 3 "~" H 1100 1200 50  0001 C CNN
 	1    1100 1200
 	-1   0    0    1   
@@ -1588,7 +1588,7 @@ Wire Notes Line
 Text Notes 7350 7500 0    79   ~ 0
 KAmp - TPA3116D2 Dual 50W amplifier board
 Text Notes 8150 7650 0    60   ~ 0
-17/01/2018
+11/11/2019
 Text Notes 10600 7650 0    60   ~ 0
 001
 Text Notes 7000 6650 0    60   ~ 0
